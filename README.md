@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vandita, crafting ideas into reality</h1>
 <h3 align="center">👩‍💻 A passionate Web Developer & Data Analyst | Exploring Backend Development</h3>
 
-<ing align= "right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16093268-Desktop-Animation&psig=AOvVaw3VtyVSHogQ38wfyMGSKRhr&ust=1732560314894000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCp3sPQ9YkDFQAAAAAdAAAAABBV">
+<img align= "right" alt="coding" width="400" src="image.gif">
 
-- 🔭 I’m currently working **on my DSA problem-solving skills.**
+- 🔭 I’m currently working on my DSA problem-solving skills
 
-- 🌱 I’m currently **exploring AI & backend technologies**
+- 🌱 I’m currently exploring AI & backend technologies
 
-- 💬 Ask me **anything, and let’s solve it together**
+- 💬 Ask me anything, and let’s solve it together
 
-- 📫 Feel free to reach out to me via email **dahiyavandita@gmail.com**
+- 📫 Feel free to reach out to me via **email**
 
-- ⚡ Fun fact **🖌️Drawing sketches makes me smile.**
+- Fun fact: Drawing sketches makes me smile🖌️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
